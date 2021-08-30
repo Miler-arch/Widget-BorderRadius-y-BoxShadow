@@ -1,4 +1,4 @@
-package com.example.places
+package com.example.placesfinal
 
 import io.flutter.embedding.android.FlutterActivity
 

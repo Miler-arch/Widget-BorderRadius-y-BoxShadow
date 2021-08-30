@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/cupertino.dart';
 
 class Review extends StatelessWidget{
   //variables
@@ -14,6 +15,7 @@ class Review extends StatelessWidget{
     //foto
     final foto = Container(
       margin: EdgeInsets.only(
+        top: 10,
         right: 10
       ),
       width: 80,
